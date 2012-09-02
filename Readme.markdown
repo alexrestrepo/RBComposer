@@ -1,4 +1,4 @@
-# ![](https://raw.github.com/alexrestrepo/RBComposer/master/class.png)RBComposer
+# ![](https://raw.github.com/alexrestrepo/RBComposer/master/class.png) RBComposer
 
 Another custom frames project, but the code has been greatly simplified, and the look updated to match Apple's Quartz Composer.
 You will need to tweak it to make it work nicely in windows.
